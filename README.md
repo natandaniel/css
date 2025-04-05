@@ -185,7 +185,7 @@ A comprehensive guide to CSS, covering everything from basic concepts to advance
     - Advanced Selectors
     - Best Practices
 
-22. [CSS-in-JS Solutions](docs/23-css-in-js.md)
+22. [CSS-in-JS Solutions](docs/22-css-in-js.md)
     - Styled Components
     - Emotion
     - JSS

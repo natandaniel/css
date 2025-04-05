@@ -457,6 +457,4 @@ p::first-line {
 
 ## Next Steps
 
-- Study [CSS Architecture](22-architecture.md)
-- Explore [CSS-in-JS Solutions](23-css-in-js.md)
-- Learn about [CSS Performance Optimization](24-performance.md)
+- Explore [CSS-in-JS Solutions](22-css-in-js.md)
